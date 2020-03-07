@@ -1,0 +1,28 @@
+{
+  "name": "restapinodejs",
+  "version": "1.0.0",
+  "description": "a simple rest api using nodejs, expressjs and array as storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touthtek/RestAPINodejs.git"
+  },
+  "author": "Olu-johnson Oluwatosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touthtek/RestAPINodejs/issues"
+  },
+  "homepage": "https://github.com/touthtek/RestAPINodejs#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
